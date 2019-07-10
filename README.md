@@ -1,4 +1,5 @@
 # Laravel101
+composer update <br>
 Go to your project create .env files then <br>
 php artisan migrate <br>
 php artisan serve <br>
